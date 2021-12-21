@@ -1,0 +1,10 @@
+,Adenovirus_Simplex_virus,Dengue,Influenza,Paraflu_RespSyncytial,Pneumonia,Rhinovirus,healthy_ctrl,Critical,Non-critical
+Adenovirus_Simplex_virus,0,128,212,150,140,154,142,204,174
+Dengue,128,0,200,146,140,146,138,204,170
+Influenza,212,200,0,214,200,210,210,260,230
+Paraflu_RespSyncytial,150,146,214,0,130,148,132,202,164
+Pneumonia,140,140,200,130,0,138,134,200,158
+Rhinovirus,154,146,210,148,138,0,148,210,176
+healthy_ctrl,142,138,210,132,134,148,0,194,168
+Critical,204,204,260,202,200,210,194,0,190
+Non-critical,174,170,230,164,158,176,168,190,0
