@@ -10,4 +10,4 @@ So what exactly makes COVID19 deadlier than other viral respiratory diseases? In
 
 Lastly, I will compare the list of genetic drivers with the gene targets of drugs that have been tested or are currently in clinical trials for treating COVID19. If time permits, I would also like to look at the pathways that these drivers are involved in and hopefully isolate a common sub-network of "impact".
 
-https://docs.google.com/viewer?url=$https://github.com/Shruti-Kaushal/Comparison-of-COVID19-other-Viral-Respiratory-Diseases/blob/main/GM-Project.pdf
+https://github.com/Shruti-Kaushal/Comparison-of-COVID19-other-Viral-Respiratory-Diseases/blob/main/GM-Project.pdf
